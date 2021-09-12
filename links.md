@@ -3,4 +3,6 @@ permalink : /LINKS/
 ---
 
 # LINKS
-* Coming soon...
+*[Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+This link is helping me to figured out about bash scripting from the definition to the example how to do bash scripting
+*Soon..
