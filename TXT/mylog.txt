@@ -24,3 +24,10 @@ ZCZC W02 20 L09 Assignment #13 : Generate SHA256SUM and SHA256SUM.asc
 ZCZC W02 15 L20 Assignment #10 : Review peer links
 ZCZC W02 20 L06 GSGS about cybersecurity and SHA256
 ZCZC W02 10 L09 Update mylog.txt
+ZCZC W03 20 L05 Quiz Week02
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 30 L11 Assignment #01 : Read OSC part File System
+ZCZC W03 10 L14 Assignment #04 : Check ".bash_aliases" file
+ZCZC W03 30 L15 Assignment #05 : Create an extra virtual disk
+ZCZC W03 20 L06 GSGS about file system in OS and the allocation method
+ZCZC W03 5 L09 Update mylog.txt
