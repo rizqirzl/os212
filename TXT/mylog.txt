@@ -30,4 +30,9 @@ ZCZC W03 30 L11 Assignment #01 : Read OSC part File System
 ZCZC W03 10 L14 Assignment #04 : Check ".bash_aliases" file
 ZCZC W03 30 L15 Assignment #05 : Create an extra virtual disk
 ZCZC W03 20 L06 GSGS about file system in OS and the allocation method
+ZCZC W03 10 L16 Assignment #06 : Update my bookmark links in links.md
+ZCZC W03 10 L17 Assignment #07 : Review my peer links and put the top three in myrank.txt
+ZCZC W03 5 L09 Update mylog.txt
+ZCZC W03 45 L12 Assignment #02 : Try Week 03 Demos in SistemOperasi github
+ZCZC W03 20 L13 Assignment #03 : Try previous MidTerm problems
 ZCZC W03 5 L09 Update mylog.txt
