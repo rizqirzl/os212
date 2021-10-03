@@ -36,3 +36,12 @@ ZCZC W03 5 L09 Update mylog.txt
 ZCZC W03 45 L12 Assignment #02 : Try Week 03 Demos in SistemOperasi github
 ZCZC W03 20 L13 Assignment #03 : Try previous MidTerm problems
 ZCZC W03 5 L09 Update mylog.txt
+ZCZC W04 30 L11 Assignment #01 : Read OSC chapter 9 about Memory Management
+ZCZC W04 5 L14 Assignment #04 : Install Package List 2 (TLPI)
+ZCZC W04 30 L15 Assignment #05 : Fetch and Extract File "WEEK04.tar.bz2.asc"
+ZCZC W04 20 L06 GSGS about main memory and virtual memory
+ZCZC W04 10 L16 Assignement #06 : Update my bookmark links in links.md
+ZCZC W04 15 L17 Assignment #07 : Review my peer links
+ZCZC W04 20 L12 Assignment #02 : Try Week 03 Demos in SistemOperasi github
+ZCZC W04 20 L13 Assignment #03 : Try some previous MidTerm problems
+ZCZC W04 10 L18 Assignment #08 : Update mylog.txt

@@ -18,4 +18,8 @@ A website with brief explanation about file system in operation system. It tells
 5. [File allocation methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
 This is a well explained website about type of allocation method and how each of the type works. Also the advantages and disadvantage of every type file allocation method
 
-6. Soon..
+6. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+This website helps me to understand more about memory management. It talks about process address space, paging, and segmentation.
+
+7. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+Another website talks about memory management. In this part, it talks more about virtual memory and algorithm for placing memory
