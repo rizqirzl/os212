@@ -26,3 +26,9 @@ Another website talks about memory management. In this part, it talks more about
 
 8. [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
 Still in memory management chapter, this website talks more about paging. It gives me a brief but helpful explanation about paging and the difference with framing.
+
+9. [Fork vs Exec](https://www.geeksforgeeks.org/difference-fork-exec/)<br>
+In demos week06, there are some function calls about fork and exec. At first, i thought this two functions are the same but after i saw this website, it helps me to determine the difference between fork and exec.
+
+10. [Demonstrate Fork](https://www.geeksforgeeks.org/c-program-demonstrate-fork-and-pipe/)<br>
+Still in same topic, this links talks more about the fork demonstration in C. It shows clearly how the fork function working.

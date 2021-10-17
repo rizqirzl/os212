@@ -55,4 +55,13 @@ ZCZC W05 10 L16 Assignement #06 : Giving my personal advice in os course in tips
 ZCZC W05 10 L17 Assignement #07 : Review my peer links
 ZCZC W05 10 L18 Assignment #08 : Update mylog.txt
 ZCZC W05 5 L19 Assignment #09 : Submit week 05 assignment
-ZCZC W05 10 L1
+ZCZC W06 20 L05 Quiz Week05
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 30 L11 Assignment #01 : Read OSC chapter 3 about Process Management
+ZCZC W06 30 L12 Assignment #02 : Try some Week 06 Demos in SistemOperasi github about fork
+ZCZC W06 20 L13 Assignment #03 : Try some previous MidTerm problems about fork
+ZCZC W06 60 L14 Assignment #04 : Run script 000-README.txt on Week06 folder and try to observe the result
+ZCZC W06 10 L15 Assignment #05 : Update my bookmark links in links.md for week06 topic
+ZCZC W06 15 L17 Assignement #07 : Review my peer links
+ZCZC W06 10 L18 Assignment #08 : Update mylog.txt
+ZCZC W06 5 L19 Assignment #09 : Submit week 06 assignment
