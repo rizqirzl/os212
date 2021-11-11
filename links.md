@@ -55,3 +55,14 @@ Still in process synchronization, this youtube gives further explanation about i
 
 13. [Deadlock vs Starvation](https://pediaa.com/what-is-the-difference-between-deadlock-and-starvation/)<br>
 Deadlock and Starvation seemed similiar for me. But, after I saw this website, now I know the difference between deadlock and starvation.
+
+### Week 08
+---
+14. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+This is website that guides me to do assignment week08, building linux from scratch. It gives a brief explanation and command that should we use.
+
+15. [Another Linux From Scratch](https://www.youtube.com/watch?v=9TYr1mCzMcg&list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL)<br>
+More about building linux from scratch. This youtube playlist might be helpful for you if you still don't get it from the previous website.
+
+16. [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+Move from building linux from scratch, now about CPU Scheduling. This website gives me an early understanding about cpu scheduling and might be useful for a further topic in CPU Scheduling.

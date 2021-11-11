@@ -65,7 +65,7 @@ ZCZC W06 10 L15 Assignment #05 : Update my bookmark links in links.md for week06
 ZCZC W06 15 L17 Assignement #07 : Review my peer links
 ZCZC W06 10 L18 Assignment #08 : Update mylog.txt
 ZCZC W06 5 L19 Assignment #09 : Submit week 06 assignment
-ZCZC W07 20 L05 Quiz Week05
+ZCZC W07 20 L05 Quiz Week06
 ZCZC W07 100 L02 ZOOM meetings related
 ZCZC W07 30 L11 Assignment #01 : Read OSC chapter 6, 7, 8 about Process Synchronization
 ZCZC W07 30 L12 Assignment #02 : Try some Week 07 Demos in SistemOperasi github
@@ -75,3 +75,14 @@ ZCZC W07 10 L15 Assignment #05 : Update my bookmark links in links.md for week07
 ZCZC W07 15 L17 Assignement #07 : Review my peer links
 ZCZC W07 10 L18 Assignment #08 : Update mylog.txt
 ZCZC W07 5 L19 Assignment #09 : Submit week07 assignment
+ZCZC W08 20 L05 Quiz Week07
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 30 L11 Assignment #01 : Read OSC chapter 5 about CPU scheduling
+ZCZC W08 30 L12 Assignment #02 : Try some Week 08 Demos in SistemOperasi github
+ZCZC W08 30 L13 Assignment #03 : Try some previous FinalTerm problems
+ZCZC W08 60 L14 Assignment #04 : Preparation and build Linux From Scratch Chapter 1-4
+ZCZC W08 60 L15 Assignment #05 : Continue build Linux From Scratch Chapter 5
+ZCZC W08 20 L16 Assignment #06 : Update my bookmark links
+ZCZC W08 15 L18 Assignment #08 : Review my peer links
+ZCZC W08 15 L19 Assignment #09 : Update mylog.txt
+ZCZC W08 5 L20 Assignment #10 : Submit week08 assignment

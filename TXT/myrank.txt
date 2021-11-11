@@ -17,3 +17,6 @@ ZCZC W06 adirasayidina
 ZCZC W07 anantus
 ZCZC W07 alyazharr
 ZCZC W07 anantaristik
+ZCZC W08 andhikalfariz
+ZCZC W08 ardanisar
+ZCZC W08 anindyasasriya
