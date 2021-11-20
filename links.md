@@ -66,3 +66,11 @@ More about building linux from scratch. This youtube playlist might be helpful f
 
 16. [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
 Move from building linux from scratch, now about CPU Scheduling. This website gives me an early understanding about cpu scheduling and might be useful for a further topic in CPU Scheduling.
+
+### Week 09
+---
+16. [Mass Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+This website gives a complete explanation about mass storage structure. Hope this link can help you to understand this topic for this week.
+
+17. [RAID Structure](https://www.javatpoint.com/what-is-raid)<br>
+Another website about topic for this week. This website giving good explanation about RAID Structure and how it works.
